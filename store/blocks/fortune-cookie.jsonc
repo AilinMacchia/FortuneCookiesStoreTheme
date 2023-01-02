@@ -1,0 +1,19 @@
+
+{
+    "store.custom#fortune-cookie": {
+        "children": [
+            "image#demo",
+            "GetYourFortune-comp"
+        ]
+    },
+    "image#demo": {
+        "props": {
+          "src": 
+        //   "../../styles/assets/banner.png",
+          "https://valtech.vteximg.com.br/arquivos/bannerFinal.png",
+          "maxHeight": "",
+          "maxWidth": "",
+          "blockClass": "bannerCookie"
+        }
+    }
+}

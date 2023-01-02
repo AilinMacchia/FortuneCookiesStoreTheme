@@ -61,6 +61,11 @@
   margin-bottom: 20px;
 }
 
+.imageElement--bannerCookie {
+  min-width: 100%;
+  max-height: 400px;
+}
+
 .skuSelectorContainer {
   margin: 1rem 0;
 }
